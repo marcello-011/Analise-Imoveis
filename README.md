@@ -47,3 +47,5 @@ Pandas — manipulação e análise de dados
 Matplotlib / Seaborn — visualização gráfica
 
 Este projeto foi desenvolvido com foco educacional e prático, simulando um cenário real de análise exploratória de dados, e pode ser facilmente adaptado para outros conjuntos de dados ou expandido com novas análises.
+
+![Heatmap de aluguel por distrito e tipo](docs/heatmap_bairro_tipo.png)
